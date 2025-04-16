@@ -1,1 +1,1 @@
-YHDRTYT
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMxYBuGoPPIMo147W3/w+reFZNmQwboJyLblWubeWsFd 20Gamerovich17@gmail.com
