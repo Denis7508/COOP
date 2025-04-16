@@ -1,1 +1,1 @@
-YHDRTYT
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHGWlzbd0/S5Xnnyd8+llIFIVmVDVuTu8e1/XMcIZMfU blits.blid@gmail.com
